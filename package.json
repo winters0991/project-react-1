@@ -9,11 +9,11 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
+  "homepage": "https://winters0991.github.io/project-react-1/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "homepage": "https://winters0991.github.io/project-react-1/build"
+    "eject": "react-scripts eject"
   }
 }
